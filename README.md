@@ -5,9 +5,9 @@
 ## 🚀 Proyectos destacados
 
 🔹 [📦 ResiluxPet - Gestión de códigos de barras](https://github.com/Monzzi/portfolio/tree/main/proyectos/resiluxpet)  
-🔹 [🏦 Economía Familiar - Control de ingresos y gastos para familias](./proyectos/economia-familiar/README.md)  
-🔹 [📊 API con Express y PostgreSQL para gestión academia.](./proyectos/backacademy/README.md)  
-🔹 [⚛️ ReactAcademy - Fullstack con React y Express.](./proyectos/reactacademy/README.md)  
+🔹 [🏦 Economía Familiar - Control de ingresos y gastos para familias](https://github.com/Monzzi/portfolio/tree/main/proyectos/economia-familiar)  
+🔹 [📊 API con Express y PostgreSQL para gestión academia.](https://github.com/Monzzi/portfolio/tree/main/proyectos/backacademy)  
+🔹 [⚛️ ReactAcademy - Fullstack con React y Express.](https://github.com/Monzzi/portfolio/tree/main/proyectos/reactacademy)  
 
 
 **🔗 Próximamente**: Incluiré capturas, enlaces a repos y una demo.
