@@ -4,10 +4,11 @@
 
 ## 🚀 Proyectos destacados
 
-- 📦 **ResiluxPet** - Proyecto de lectura de códigos de barras con gestión de inventario.
-- 🏦 **Gestión de economía familiar** - Aplicación para administrar ingresos, gastos e inversiones.
-- 📊 **Backend con Express y PostgreSQL** - API con endpoints, autenticación y base de datos. Gestión academia.
-- 🏫 **Proyecto ReactAcademy** - Aplicación fullstack con React y Express. Gestión academia.
+🔹 [📦 ResiluxPet - Gestión de códigos de barras](./proyectos/resiluxpet/README.md)  
+🔹 [🏦 Economía Familiar - Control de ingresos y gastos para familias](./proyectos/economia-familiar/README.md)  
+🔹 [📊 API con Express y PostgreSQL para gestión academia.](./proyectos/backacademy/README.md)  
+🔹 [⚛️ ReactAcademy - Fullstack con React y Express.](./proyectos/reactacademy/README.md)  
+
 
 **🔗 Próximamente**: Incluiré capturas, enlaces a repos y una demo.
 
