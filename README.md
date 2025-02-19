@@ -4,7 +4,7 @@
 
 ## 🚀 Proyectos destacados
 
-- 📦 **Resiluxpet** - Proyecto de lectura de códigos de barras con gestión de inventario.
+- 📦 **ResiluxPet** - Proyecto de lectura de códigos de barras con gestión de inventario.
 - 🏦 **Gestión de economía familiar** - Aplicación para administrar ingresos, gastos e inversiones.
 - 📊 **Backend con Express y PostgreSQL** - API con endpoints, autenticación y base de datos. Gestión academia.
 - 🏫 **Proyecto ReactAcademy** - Aplicación fullstack con React y Express. Gestión academia.
