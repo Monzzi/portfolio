@@ -7,7 +7,9 @@ function App() {
     <div className="bg-background min-h-screen">
       <Navbar /> {/* Agregamos la barra de navegación */}
       <div className="p-8">
-        <h1 className="text-4xl font-bold text-center text-primary mb-6">Proyectos</h1>
+        <br />
+        <br />
+        <br />
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6 animate-fade-in place-items-center">
         {projects.map((project) => (
             <ProjectCard key={project.id} project={project} />
